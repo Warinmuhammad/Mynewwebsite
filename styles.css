@@ -5,9 +5,6 @@ body {
     font-family: 'Merriweather', serif;
     color: #40514E ;
 }
-.intro {
-    margin: auto;
-}
 h1 {
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
@@ -29,30 +26,10 @@ h3 {
 .top-container {
     background-color: #EAF6F6;
 }
-.bottom-cloud {
-    position: absolute;
-    left: 250px;
-    bottom:430px;
-}
-.mountain {
-    padding-top: 50px;
-}
 
 p {
     line-height: 2;
 }
-
-.aftereffect {
-    width: 35%;
-    float: left;
-    margin-right: 30px;
-}
-.purpleemoji {
-width: 35%;
-float: right;
-margin-left: 30px;
-}
-
 hr {
     border: dotted #EAF6F6 6px;
     border-bottom: none;
