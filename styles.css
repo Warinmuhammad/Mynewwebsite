@@ -32,18 +32,11 @@ h3 {
 }
 .top-container {
     background-color: #EAF6F6;
-    position: relative;
-    padding-top: 70px;
 }
 .bottom-cloud {
     position: absolute;
     left: 250px;
     bottom:430px;
-}
-.top-cloud {
-    position:absolute;
-    right: 300px;
-    top: 50px;
 }
 .mountain {
     padding-top: 50px;
