@@ -66,6 +66,7 @@ hr {
   }
   .bottom-container {
     background-color: #66bfbf;
+    margin: 40px auto 0 auto;
   }
   .below {
     margin-bottom: 20px;
